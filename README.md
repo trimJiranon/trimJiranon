@@ -1,13 +1,13 @@
-<h1 align="center">✨ Hi, I'm Jiranon (Trim) ✨</h1>
+<h1 align="center"> Hi, I'm Jiranon Singhamart (Trim) </h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=08F7F9&center=true&vCenter=true&width=600&lines=Data+Engineer+%7C+DevOps+Explorer;Optimizing+ETL+%26+ELT+Pipelines;Building+Scalable+Data+Solutions;Automating+the+Future+%E2%9C%85" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=08F7F9&center=true&vCenter=true&width=600&lines=Data+Engineer+%7C+DevOps+Engineer;" alt="Typing SVG" />
 </p>
 
 ### 💫 About Me
-- 🏢 Data Engineer at **Cloud Fission (KBTG)**  
+- 🏢 Data Engineer at **KBTG (Outsource from Cloud Fission)**  
 - 🎓 Graduate in Computer Engineering from **KMUTT**  
-- 🌱 Learning **Kubernetes**, **CI/CD automation**, and **Cloud Technologies**  
-- 💻 Passionate about blending **Data Engineering** with **DevOps** practices  
+- 🌱 Learning **Golang**,**Docker**,**Kubernetes**, **CI/CD automation**, and **Cloud Technologies**  
+- 💻 Passionate about blending **Data Engineering** and **DevOps**
 
 ---
 

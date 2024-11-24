@@ -1,4 +1,4 @@
-<h1 align="center"> Hi, I'm Jiranon Singhamart (Trim)✂️</h1>
+<h1 align="center">🧑‍💻 Hi, I'm Jiranon Singhamart (Trim)✂️</h1>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=08F7F9&center=true&vCenter=true&width=600&lines=Data+Engineer+%7C+DevOps+Engineer;" alt="Typing SVG" />
 </p>

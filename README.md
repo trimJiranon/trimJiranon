@@ -19,7 +19,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   <!-- Tools -->
   <img src="https://raw.github.com/devicons/devicon/blob/master/icons/apacheairflow/apacheairflow-original.svg" alt="airflow" width="40" height="40"/>
-  <img src="[https://raw.github.com/trimJiranon/About_Me/tree/main/databrick.svg](https://raw.githubusercontent.com/trimJiranon/About_Me/refs/heads/main/databrick.svg)" alt="databrick" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/trimJiranon/About_Me/refs/heads/main/databrick.svg" alt="databrick" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>

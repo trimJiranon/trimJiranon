@@ -26,16 +26,3 @@
 </p>
 
 ---
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jiranon&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jiranon&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
----
-
-<p align="center">✨ Thanks for visiting! Let’s innovate together! ✨</p>

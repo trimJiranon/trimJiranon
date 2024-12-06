@@ -28,6 +28,6 @@
 ---
 ### 🛠️ Certificate
 <p align="center">
-  <img src="https://github.com/trimJiranon/certificate/blob/main/Certificate_Introduction_to_Docker.png?raw=true" alt="Docker" width="200" height="200" />  
-  <img src="https://github.com/trimJiranon/certificate/blob/main/Certificate_DevSecOps_Transformation&Technologies_Concept.png?raw=true" alt="DevSecOps" width="200" height="200" /> 
+  <img src="https://github.com/trimJiranon/certificate/blob/main/Certificate_Introduction_to_Docker.png?raw=true" alt="Docker" width="2000" height="2000" />  
+  <img src="https://github.com/trimJiranon/certificate/blob/main/Certificate_DevSecOps_Transformation&Technologies_Concept.png?raw=true" alt="DevSecOps" width="2000" height="2000" /> 
 </p>

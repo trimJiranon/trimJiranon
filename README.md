@@ -28,5 +28,5 @@
 ---
 ### 🛠️ Certificate
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Docker"/>  
+  <img src="https://github.com/trimJiranon/certificate/blob/main/Certificate_Introduction_to_Docker.png?raw=true" alt="Docker"/>  
 </p>

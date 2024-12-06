@@ -11,7 +11,7 @@
 
 ---
 
-### 📜 Tech Stack
+### 🛠️ Tech Stack
 <p align="center">
   <!-- Programming Languages -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
@@ -26,7 +26,7 @@
 </p>
 
 ---
-### 🛠️ Certificate
+### 📜 Certificate
 <p align="center">
   <img src="https://github.com/trimJiranon/certificate/blob/main/Certificate_Introduction_to_Docker.png?raw=true" alt="Docker" />  
   <img src="https://github.com/trimJiranon/certificate/blob/main/Certificate_DevSecOps_Transformation&Technologies_Concept.png?raw=true" alt="DevSecOps" /> 

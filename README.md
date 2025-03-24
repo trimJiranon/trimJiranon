@@ -35,4 +35,5 @@
 <p align="center">
   <img src="https://github.com/trimJiranon/certificate/blob/main/Certificate_Introduction_to_Docker.png?raw=true" alt="Docker" />  
   <img src="https://github.com/trimJiranon/certificate/blob/main/Certificate_DevSecOps_Transformation&Technologies_Concept.png?raw=true" alt="DevSecOps" /> 
+  <img src="https://github.com/trimJiranon/certificate/blob/main/Go_certificate.png?raw=true" alt="GO" /> 
 </p>

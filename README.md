@@ -4,10 +4,9 @@
 </p>
 
 ### 💫 About Me
-- 🏢 Data Engineer at **KBTG (Outsource from Cloud Fission)**  
+- 🏢 Data Engineer 
 - 🎓 Graduate in Computer Engineering from **KMUTT**  
-- 🌱 Learning **Golang**,**Docker**,**Kubernetes**, **CI/CD automation**, and **Cloud Technologies**  
-- 💻 Passionate about blending **Data Engineering** and **DevOps**
+- 💻 Passionate about blending **Data Engineering**
 
 ---
 
@@ -28,12 +27,4 @@
 ### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=trimJiranon&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
-
----
-### 📜 Certificate
-<p align="center">
-  <img src="https://github.com/trimJiranon/certificate/blob/main/Certificate_Introduction_to_Docker.png?raw=true" alt="Docker" />  
-  <img src="https://github.com/trimJiranon/certificate/blob/main/Certificate_DevSecOps_Transformation&Technologies_Concept.png?raw=true" alt="DevSecOps" /> 
-  <img src="https://github.com/trimJiranon/certificate/blob/main/Go_certificate.png?raw=true" alt="GO" /> 
 </p>
